@@ -1,0 +1,32 @@
+body {
+    font-size: 15px;
+    background-color: #05579C;
+}
+
+.verde{
+  background-color: #15E79A;
+  border-style: solid;
+  border-color: #022B4E;
+}
+
+.amarillo{
+  background-color: #E9FF04;
+  border-style: dashed;
+  border-color: #F08D02;
+}
+
+.naranja{
+  background-color: #FFB104;
+  border: #FF0C0C double;
+}
+
+.azul{
+  background-color: #34ADFF;
+  border: #F0FF0C dotted;
+}
+
+/* Aqui es donde aplico el ancho de bordes */
+
+.cotenedor{
+  border-width: 10px;
+}
